@@ -1,0 +1,12 @@
+{
+  "brand": "EducationalLabsHDT",
+  "updated": "2026-09-06",
+  "products": [
+    {"sku": "ELHDT-STEM-30D-001", "name": "Laboratorio Casero 30 Dias", "price_usd": 12, "repo": "educationallabshdt-cocina-cientifica-30d"}
+  ],
+  "already_published_siblings": [
+    "educationallabshdt-lab-repaso-ia",
+    "educationallabshdt-lab-acelerado",
+    "educational-labs-hdt-stem-minilabs"
+  ]
+}
